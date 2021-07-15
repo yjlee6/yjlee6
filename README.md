@@ -6,7 +6,7 @@
   ##### Deep Learning   <br> Machine Learning  <br> Image processing <br><br><br>
   
   
-  📓 tudying
+  📓 studying
   ##### Deep Learning basic  <br> coding test <br> IoT Port Access Management System <br> Improve camera image quality AI competition <br><br><br>  
   
    <br>  
