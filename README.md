@@ -7,7 +7,7 @@
   
   
   📓 studing
-  ##### Deep Learning basic  <br> coding test <br> IoT Port Access Management System <br><br><br>
+  ##### Deep Learning basic  <br> coding test <br> IoT Port Access Management System <br> Improve camera image quality AI competition <br><br><br>  
   
    <br>  
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
