@@ -18,6 +18,8 @@
    <br>  
    <br>  
    :telephone_receiver: <br>
+   
+   https://velog.io/@yetniek 
   
    <br>  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>](http://instagram.com/yetniek)
   <img src="https://img.shields.io/badge/yejin2791@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
