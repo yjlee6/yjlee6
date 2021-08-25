@@ -6,9 +6,6 @@
   ##### Deep Learning   <br> Machine Learning  <br> Image processing <br><br><br>
   
   
-  📓 studying
-  ##### Deep Learning basic  <br> coding test (sw expert academy) <br> IoT Port Access Management System <br> Improve camera image quality AI competition <br><br><br>  
-  
    <br>  
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
