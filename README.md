@@ -2,7 +2,7 @@
   
  
   # :computer: 
-  :mag: interested 
+  :mag:  
   ##### Deep Learning   <br> Machine Learning  <br> Image processing <br><br><br>
   
   
