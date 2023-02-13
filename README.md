@@ -9,8 +9,8 @@
 
  # Current Work
   ### SKT Fly AI 2 Memeber
-### 💻 [알고리즘 스터디](https://github.com/SKT-FlyAi/Algorithm)  
-### 📝 [TIL 스터디](https://github.com/SKT-FlyAi/SKT-FLYAI-Archiving)
+### 💻 [ALGORITHM STUDY](https://github.com/SKT-FlyAi/Algorithm)  
+### 📝 [TODAY I LEARNED](https://github.com/SKT-FlyAi/SKT-FLYAI-Archiving)
   # 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yetniek)](https://github.com/anuraghazra/github-readme-stats)
 
