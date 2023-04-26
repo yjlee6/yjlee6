@@ -2,7 +2,9 @@
     
  # Introduce
     
-  I'm an artificial intelligence developer! I am interested in computer vision tasks. But, recently I conducted a Sounds detection project! I am intrigued that AI are game-changing in the world! and I love Pythorch, I like collaborating with diverse people and sharing their knowledge. I am interested in developing better solutions and learning new skills and tools as needed.
+I am an artificial intelligence developer currently working at The Korea Institute of Science and Technology. I am fascinated by the ways in which AI is transforming the world and believe it has enormous potential. I am proficient in PyTorch and enjoy collaborating with people from diverse backgrounds to share knowledge. I am always eager to develop better solutions and to learn new skills and tools as needed.
+
+- interesting fields : CV/DL/ML
     
  # Interesting Field
   ### Deep Learning   <br> Machine Learning  <br> Image processing<br>
