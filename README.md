@@ -20,8 +20,8 @@ Graduate Curriculum: Advanced Topics in Image Processing, Special Lecture on Mac
 
 - **Deep Learning**
 - **Computer Vision**
-- **Image Processing**
-
+- **Vision Language Model**
+- **MultiModal**
 ---
 
 ## Research Experience 🧑‍🔬
