@@ -11,17 +11,17 @@
   <span style="color:MediumBlue">**ICAIIC 2023**</span> | [[paper]]([[https://arxiv.org/abs/2312.04005](https://ieeexplore.ieee.org/document/10067023)](https://ieeexplore.ieee.org/document/10067023))
   
 # 💡Project
-- *2023.12 - 2024.02*: Medical Image AI Challenge 2023: Pathology data by Seoul National University Hospital 
-- *2023.06 - 2023.08*: Future Technology Challenge 2023 by CJ Logistics
-- *2022.12 - 2023.02*: SK telecom FLY AI Challenger by SK Telecom
+- *2023.12 - 2024.02*: Medical Image AI Challenge 2023: Pathology data by Seoul National University Hospital - **7th out of 60 teams**
+- *2023.06 - 2023.08*: Future Technology Challenge 2023 by CJ Logistics - **4th out of 90 teams**
+- *2022.12 - 2023.02*: SK telecom FLY AI Challenger by SK Telecom  
 - *2022.08 - 2023.12*: Visiting Scholar in Purdue University
 - *2022.08 - 2023.10*: Survey Adversarial Attacks and Neural Rendering 
 - *2022.06 - 2022.10*: AI-based pancreatic cancer diagnosis project in collaboration with Dongtan Sacred Heart Hospital
 
 # 🎖 Honors and Awards
-- *2023.02*, SKT AI Hackathon, awarded by SK telecom
-- *2022.05*, SW Capstone Design Competition, awarded by Hallym University
-- *2021.11*, Healthcare BigData Hackathon, awarded by Hallym University
+- *2023.02*, SKT AI Hackathon, awarded by SK telecom - **1st place**
+- *2022.05*, SW Capstone Design Competition, awarded by Hallym University - **1st place**
+- *2021.11*, Healthcare BigData Hackathon, awarded by Hallym University - **1st place**
 
 # 📖 Educations
 - *2019.03 - 2024.02*, Hallym University, Bachelor of Contents IT, Department of Software Convergence
