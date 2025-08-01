@@ -36,7 +36,3 @@
 - *2023.04 - 2023.12*, Visual intelligence group @ [KIST]([https://www.kist.re.kr/ko/index.do])
 - *2022.08 - 2022.12*, Information & Communications Technology Lab @ [Purdue Univ.]([https://www.purdue.edu/])
 - *2021.06 - 2022.08*, MultiMedia Computing Lab @ [Hallym Univ.]([https://mmc.hallym.ac.kr/])
-
-# ✏️ Online Course 
-- *2024.04 - 2024.12*, H-Mobility Class 자율주행 @ [H-Mobility-Class]([https://www.h-mobility-class.com/])
-- *2024.06 - 2024.10*, Harvard Statistics 110: Probability @ [Harvard Univ.]([(https://youtu.be/KbB0FjPg0mw?si=DOu4eXXCUXU-aVsm)])
